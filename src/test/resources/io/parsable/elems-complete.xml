@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TestObject name="anton" number="11">
+    <Required required="foo" optional="bar"/>
+    <!-- Complete specification with <Element> elements -->
+    <Elements>
+        <Element required="here1" optional="there1"/>
+        <Element required="here2" optional="there2"/>
+    </Elements>
+</TestObject>

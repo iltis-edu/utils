@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TestObject name="anton" number="11">
+    <!-- The following tag has empty value "name" -->
+    <Reference tag="blue"/>
+    <Reference>beta</Reference>
+    <Required required="foo" optional="bar"/>
+</TestObject>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Task>
+    <TaskInput name="one" type="foo"/>
+    <TaskInput name="two" type="bar" barValue="2000"/>
+    <TaskInput name="three" type="foo" fooValue="121"/>
+</Task>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Document name="Opus">
+    <value>123456</value>
+    <description>text <b>and more</b></description>
+    <textContent>text <b>and more</b></textContent>
+    <xmlAsText>text <b>and more</b></xmlAsText>
+</Document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TestObject name="anton" number="11">
+    <Reference tag="blue">alpha</Reference>
+    <Reference>beta</Reference>
+    <Required required="foo" optional="bar"/>
+    <!-- This is a complete and correct definition
+         WITHOUT <Element> elements -->
+</TestObject>

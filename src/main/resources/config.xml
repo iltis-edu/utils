@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<config>
+	<library name="princess">
+		<function name="checkFormula">
+			<uri>http://localhost:8888/princess/checkFormula</uri>
+			<contenttype>application/json</contenttype>
+		</function>
+	</library>
+    <library name="nlp">
+        <function name="getSimilarityVectorWithModel">
+            <uri>http://localhost:8888/nlp/get-sim-with-model</uri>
+            <contenttype>application/json</contenttype>
+        </function>
+    </library>
+    <library name="bliss">
+        <function name="canonicalLabelling">
+            <uri>http://localhost:8888/Bliss/canonical-labelling</uri>
+            <contenttype>application/json</contenttype>
+        </function>
+        <function name="automorphismGenerators">
+            <uri>http://localhost:8888/Bliss/automorphism-generators</uri>
+            <contenttype>application/json</contenttype>
+        </function>
+    </library>
+</config>

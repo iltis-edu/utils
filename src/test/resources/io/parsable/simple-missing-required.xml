@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TestObject name="anton" number="11">
+    <!-- Required element <Required> is missing -->
+</TestObject>
